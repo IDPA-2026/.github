@@ -1,20 +1,80 @@
-# Interdisziplinäre Projektarbeit (IDPA) 2026
+**Interdisziplinäre Projektarbeit (IDPA):**
 
-Vorgaben für das Schuljahr 2025/26 für die Informatikmittelschule (IMS)
-an der KBW
+**Vorgaben 2025/26 für die Informatikmittelschule (IMS)**
 
-## Grundlagen
+# Inhaltsverzeichnis {#inhaltsverzeichnis .TOC-Heading}
 
-Die IDPA ist eine **I**nter**D**isziplinäre **P**rojekt**A**rbeit, die
-in der Regel in Zweier- oder Dreiergruppen verfasst wird. Dabei wird
-eine Fragestellung aus den Blickwinkeln zweier Fächer bearbeitet und
-in einer schriftlichen Gruppenarbeit sowie einer mündlichen
-Präsentation vorgestellt. Zudem wird der Entstehungsprozess in einem
-Arbeitsjournal festgehalten und eine technische Dokumentation der
-Projektarbeit erstellt.
+[1 Grundlagen [2](#grundlagen)](#grundlagen)
 
-Der gesamte IDPA-Zyklus dauert von August des dritten bis November des
-vierten Ausbildungsjahres.
+[1.1 Rahmenbedingungen und Zielsetzungen
+[2](#rahmenbedingungen-und-zielsetzungen)](#rahmenbedingungen-und-zielsetzungen)
+
+[2 Themen, Interdisziplinarität und Bewertung
+[3](#themen-interdisziplinarität-und-bewertung)](#themen-interdisziplinarität-und-bewertung)
+
+[2.1 Betreuung [3](#betreuung)](#betreuung)
+
+[2.2 Bewertung [3](#bewertung)](#bewertung)
+
+[3 Termine [4](#termine)](#termine)
+
+[3.1 Vorinformation über Themen
+[4](#vorinformation-über-themen)](#vorinformation-über-themen)
+
+[3.2 Abgabe der Dokumente
+[4](#abgabe-der-dokumente)](#abgabe-der-dokumente)
+
+[3.3 Präsentationstermine
+[4](#präsentationstermine)](#präsentationstermine)
+
+[4 Elemente der IDPA [6](#elemente-der-idpa)](#elemente-der-idpa)
+
+[4.1 Arbeitsjournal [6](#arbeitsjournal)](#arbeitsjournal)
+
+[4.2 Technische Produktion und technische Dokumentation
+[6](#technische-produktion-und-technische-dokumentation)](#technische-produktion-und-technische-dokumentation)
+
+[4.2.1 Aufbau der technischen Dokumentation
+[6](#aufbau-der-technischen-dokumentation)](#aufbau-der-technischen-dokumentation)
+
+[4.2.2 Zitierweise und Verzeichnisse
+[7](#zitierweise-und-verzeichnisse)](#zitierweise-und-verzeichnisse)
+
+[4.2.3 Layout [7](#layout)](#layout)
+
+[4.3 Präsentation [7](#präsentation)](#präsentation)
+
+[5 Archivierung [7](#archivierung)](#archivierung)
+
+[6 Anhang [8](#anhang)](#anhang)
+
+[6.1 Muster eines Projektauftrages IDPA
+[8](#muster-eines-projektauftrages-idpa)](#muster-eines-projektauftrages-idpa)
+
+[6.2 Ehrenwörtliche Erklärung
+[9](#ehrenwörtliche-erklärung)](#ehrenwörtliche-erklärung)
+
+[6.3 Beurteilungskriterien
+[9](#beurteilungskriterien)](#beurteilungskriterien)
+
+[6.4 Muster Arbeitsjournal (von jedem Teammitglied zu führen)
+[10](#muster-arbeitsjournal-von-jedem-teammitglied-zu-führen)](#muster-arbeitsjournal-von-jedem-teammitglied-zu-führen)
+
+[6.5 Prozess / Betreuungsgespräche
+[10](#prozess-betreuungsgespräche)](#prozess-betreuungsgespräche)
+
+# Grundlagen
+
+> Die IDPA ist eine **I**nter**D**isziplinäre **P**rojekt**A**rbeit, die
+> in der Regel in Zweier- oder Dreiergruppen verfasst wird. Dabei wird
+> eine Fragestellung aus den Blickwinkeln zweier Fächer bearbeitet und
+> in einer schriftlichen Gruppenarbeit sowie einer mündlichen
+> Präsentation vorgestellt. Zudem wird der Entstehungsprozess in einem
+> Arbeitsjournal festgehalten und eine technische Dokumentation der
+> Projektarbeit erstellt.
+>
+> Der gesamte IDPA-Zyklus dauert von August des dritten bis November des
+> vierten Ausbildungsjahres.
 
 ### Rahmenbedingungen und Zielsetzungen
 
@@ -45,7 +105,7 @@ Falls die IDPA ganz oder teilweise im Rahmen eines Unterrichtsgefässes
 entsprechend zu erhöhen. Dies ist im Projektauftrag (Anhang 6.1)
 zwingend zu vermerken.
 
-## Themen, Interdisziplinarität und Bewertung
+# Themen, Interdisziplinarität und Bewertung
 
 Die Themen werden jeweils Ende August / nach den Sommerferien
 (Semester 5) von Lehrpersonen ausgeschrieben und den Lernenden
@@ -66,6 +126,12 @@ Die Arbeit wird von zwei Lehrpersonen betreut, entweder paritätisch
 oder im «Hauptbetreuer:in/Co-Betreuer:in-Modell. Die
 Betreuungspersonen unterstützen die Lernenden individuell angepasst in
 folgenden Belangen:
+## 
+
+Die Arbeit wird von zwei Lehrpersonen betreut, entweder paritätisch
+oder im «Hauptbetreuer:in/Co-Betreuer:in-Modell. Die
+Betreuungspersonen unterstützen die Lernenden individuell angepasst in
+folgenden Belangen:
 
 *  Wahl des Themas
 *  Entwicklung der Fragestellung oder Gestaltungsidee 
@@ -76,6 +142,21 @@ folgenden Belangen:
 *  Selbstständiges Zustandekommen der IDPA mit Offenlegung fremder
     Hilfe.
 
+Während der Bearbeitungszeit finden zwei Betreuungsgespräche statt,
+u.a. zur Diskussion von Analyse und Design und zur Klärung der genauen
+Anforderungen an die Abgabeform der technischen Produktion und an den
+Prozess (siehe Anhang 6.3, 6.4 und 6.5).
+
+Die betreuenden Lehrpersonen fordern und überprüfen Konzept und
+Zeitplan, beraten bezüglich weiterem Vorgehen und unterstützen bei
+Schwierigkeiten. Jedoch sollen während der Betreuungsphasen
+grammatikalische und stilistische Korrekturen unterlassen werden.
+Inhaltlich tiefgreifende Korrekturen durch die Lehrpersonen sind bei
+der Bewertung angemessen zu berücksichtigen.
+
+Die Präsentation bildet den Abschluss der IDPA. Diese findet in Form
+einer Präsentation von 15 Minuten und einem nachfolgenden ca.
+10-minütigen Fachgespräch (Kolloquium) statt.
 Während der Bearbeitungszeit finden zwei Betreuungsgespräche statt,
 u.a. zur Diskussion von Analyse und Design und zur Klärung der genauen
 Anforderungen an die Abgabeform der technischen Produktion und an den
@@ -109,6 +190,21 @@ angebrochenem Tag eine Note auf Basis der Schulnote abgezogen. Die
 IDPA-Schlussnote wird auf halbe Noten gerundet.
 
 Die Bewertung umfasst folgende Teilbereiche (inkl. Gewichtung):
+Die IDPA-Note ist Bestandteil der BM. Ohne abgegebene Arbeit kann
+diese Note nicht gesetzt werden und damit auch kein
+Berufsmaturitätszeugnis ausgestellt werden.
+
+Die Note wird vom Betreuerteam gemeinsam festgelegt und dem
+Schülerteam spätestens zwei Wochen nach dem Präsentationstermin
+eröffnet. Sie wird schriftlich begründet. Die Gesamtnote gilt
+grundsätzlich für alle Mitglieder des Schülerteams. Im Falle deutlich
+erkennbarer unterschiedlicher Leistungsanteile können die Lehrpersonen
+Einzelnoten setzen. In Zweifelsfällen bei der Notengebung entscheidet
+die Schulleitung. Für eine zu späte Abgabe der IDPA wird pro
+angebrochenem Tag eine Note auf Basis der Schulnote abgezogen. Die
+IDPA-Schlussnote wird auf halbe Noten gerundet.
+
+Die Bewertung umfasst folgende Teilbereiche (inkl. Gewichtung):
 
   -----------------------------------------------------------------------
   Technische Produktion                                 40%
@@ -120,6 +216,13 @@ Die Bewertung umfasst folgende Teilbereiche (inkl. Gewichtung):
   Präsentation und Fachgespräch                         25%
   -----------------------------------------------------------------------
 
+Die Note der IDPA wird auf halbe oder ganze Noten gerundet. Die
+erworbene Note der IDPA zählt zu 50% für die Fachnote IDAF. Die andere
+Hälfte setzt sich aus dem Durchschnitt (gerundet auf halbe oder ganze
+Noten) der beiden Semesternoten IDAF (im 3. und 4. Semester) zusammen.
+Der Mittelwert der Erfahrungsnote IDAF und der Note für die
+Berufsmaturitätsarbeit (IDPA) ergeben die auf eine Dezimale gerundete
+Fachnote IDAF. Sie zählt für den BM-Abschluss.
 Die Note der IDPA wird auf halbe oder ganze Noten gerundet. Die
 erworbene Note der IDPA zählt zu 50% für die Fachnote IDAF. Die andere
 Hälfte setzt sich aus dem Durchschnitt (gerundet auf halbe oder ganze
@@ -141,9 +244,27 @@ Lehrpersonen sind unabdingbar. Dabei muss bei der Gruppenarbeit auch
 Einsicht in den Arbeitsprozess gewährt werden, ebenso können
 Leseproben einmalig im Umfang von maximal drei Seiten abgegeben
 werden.
+Der IDPA-Zyklus, in dem Schüler:innen an der IDPA arbeiten, dauert von
+Mitte November des letzten Schuljahres bis im November des
+Praxisjahres. Die Erarbeitung erfolgt in Eigenverantwortung der
+Schüler:innen. Für die Klassen werden im Stundenplan des 6. Semesters
+zwei Lektionen für die IDPA-Gruppenarbeit blockiert; in dieser Zeit
+ist freies Arbeiten möglich. Zudem wird nochmals mit demselben Aufwand
+als Hausaufgabenzeit gerechnet. Periodische Sitzungen mit beiden
+Lehrpersonen sind unabdingbar. Dabei muss bei der Gruppenarbeit auch
+Einsicht in den Arbeitsprozess gewährt werden, ebenso können
+Leseproben einmalig im Umfang von maximal drei Seiten abgegeben
+werden.
 
 ## Vorinformation über Themen
 
+Im Verlauf des fünften Semesters werden die Schüler:innen von der
+IMS-Leitung über die Eckpunkte der IDPA informiert. Bis zur
+definitiven Themenwahl nach den Herbstferien bleibt den Lernenden
+genügend Zeit, sich mit der Themenwahl auseinanderzusetzen, sich für
+Wunschthemen zu entscheiden und Teams zu bilden. Schüler:innen, die
+sich innerhalb des Zeitfensters der Anmeldung nicht für ein Thema
+eintragen, werden von der IMS-Leitung zugeteilt.
 Im Verlauf des fünften Semesters werden die Schüler:innen von der
 IMS-Leitung über die Eckpunkte der IDPA informiert. Bis zur
 definitiven Themenwahl nach den Herbstferien bleibt den Lernenden
@@ -175,9 +296,34 @@ dass die Arbeit ohne unerlaubte Hilfsmittel verfasst worden ist, zu
 unterzeichnen. Verstösst ein Schülerteam gegen die Lauterkeit
 (Plagiatsversuch, gilt auch für Codes), gelten die Bestimmungen der
 KBW[^3].
+Die IDPA-Projektaufträge müssen im Herbst des fünften Semesters gemäss
+schulspezifischen Weisungen abgegeben werden.
+
+Von der technischen Dokumentation müssen zwei gebundene Exemplare
+gemäss schulspezifischen Weisungen und eine elektronische Version der
+Dokumentation im PDF-Format an die IMS-Leitung und die betreuenden
+Lehrpersonen zustellt werden. Der Druck und das Binden der Arbeiten
+kann mit Kosten verbunden sein. Die technische Produktion ist in
+geeigneter Form (z.B. Link, USB-Stick) mitzuliefern. Die Applikation
+muss selbständig von den Betreuungspersonen gestartet und angewendet
+werden können, die Verantwortung dafür liegt bei den Teammitgliedern.
+Die Abgabetermine gemäss Zeitplan sind absolut verbindlich.
+
+Das Arbeitsjournal muss im Original den betreuenden Lehrpersonen
+abgegeben werden.
+
+Bei der Abgabe ist eine ehrenwörtliche Erklärung (siehe Anhang 6.2),
+dass die Arbeit ohne unerlaubte Hilfsmittel verfasst worden ist, zu
+unterzeichnen. Verstösst ein Schülerteam gegen die Lauterkeit
+(Plagiatsversuch, gilt auch für Codes), gelten die Bestimmungen der
+KBW[^3].
 
 ## Präsentationstermine
 
+Die Präsentationstermine finden im November des Praxisjahres gemäss
+schulspezifischen Weisungen statt. Sie dauern je Gruppe ca. 25 Minuten
+bei Zweier- und Dreiergruppen (15 Minuten Präsentation, ca. 10 Minuten
+Fachgespräch) und werden vor den betreuenden Lehrpersonen gehalten.
 Die Präsentationstermine finden im November des Praxisjahres gemäss
 schulspezifischen Weisungen statt. Sie dauern je Gruppe ca. 25 Minuten
 bei Zweier- und Dreiergruppen (15 Minuten Präsentation, ca. 10 Minuten
@@ -279,9 +425,17 @@ Die IDPA umfasst eine technische Produktion, eine technische
 Dokumentation, die Darlegung des Arbeitsprozesses in Form eines
 Arbeitsjournals (siehe Anhang 6.4) und die mündliche Präsentation
 inklusive Fachgespräch.
+Die IDPA umfasst eine technische Produktion, eine technische
+Dokumentation, die Darlegung des Arbeitsprozesses in Form eines
+Arbeitsjournals (siehe Anhang 6.4) und die mündliche Präsentation
+inklusive Fachgespräch.
 
 ## Arbeitsjournal
 
+Das Arbeitsjournal zur Gruppenarbeit macht den Arbeitsprozess während
+der Gruppenarbeit transparent und dient einerseits als Planungs- und
+Dokumentationsinstrument, andererseits soll es aber auch Gelegenheit
+bieten, Reflexionen über verschiedene Kompetenzen anzustellen.
 Das Arbeitsjournal zur Gruppenarbeit macht den Arbeitsprozess während
 der Gruppenarbeit transparent und dient einerseits als Planungs- und
 Dokumentationsinstrument, andererseits soll es aber auch Gelegenheit
@@ -291,9 +445,14 @@ bieten, Reflexionen über verschiedene Kompetenzen anzustellen.
 
 Die Schüler:innen führen die IDPA als technische Produktion durch
 welche einen ICT-Teil enthält.
+Die Schüler:innen führen die IDPA als technische Produktion durch
+welche einen ICT-Teil enthält.
 
 ### Aufbau der technischen Dokumentation
 
+Die technische Produktion ist mit einer technischen Dokumentation
+abzugeben. Diese hält sich an folgenden Aufbau (die Struktur kann/muss
+sinnvoll auf die Bedürfnisse des Teams angepasst werden):
 Die technische Produktion ist mit einer technischen Dokumentation
 abzugeben. Diese hält sich an folgenden Aufbau (die Struktur kann/muss
 sinnvoll auf die Bedürfnisse des Teams angepasst werden):
@@ -385,9 +544,29 @@ Schüler[^4].
 nachgewiesenem Betrug in Form eines Teil- oder Vollplagiats (Plagiat:
 fremdes Material ohne Quellenangabe) wird die Arbeit für ungültig
 erklärt. Über die weiteren Schritte entscheidet die Schulleitung.
+Die korrekte und transparente Zitierweise ist ein wichtiges
+Qualitätskriterium für die Arbeit und ist strikte zu beachten. Jede
+Information, die aus fremden Quellen stammt, muss im Text
+gekennzeichnet sein. Dies gilt auch für den Einsatz von künstlicher
+Intelligenz.
+
+Für das Vorgehen bei Zitaten, Fussnoten und Quellenangaben gelten die
+Richtlinien des Leitfadens zur Maturitätsarbeit für Schülerinnen und
+Schüler[^4].
+
+*Achtung:* Plagiat bedeutet Zurückweisung der Arbeit! Bei
+nachgewiesenem Betrug in Form eines Teil- oder Vollplagiats (Plagiat:
+fremdes Material ohne Quellenangabe) wird die Arbeit für ungültig
+erklärt. Über die weiteren Schritte entscheidet die Schulleitung.
 
 ### Layout
 
+Das Arbeiten mit Formatvorlagen vereinfacht die formelle Gestaltung
+der Arbeit. Zudem ermöglicht es die automatische Erstellung von
+Inhaltsverzeichnissen, Abbildung- und Tabellenverzeichnissen,
+Querverweisen etc.
+
+Checkliste relevante Gestaltungskriterien:
 Das Arbeiten mit Formatvorlagen vereinfacht die formelle Gestaltung
 der Arbeit. Zudem ermöglicht es die automatische Erstellung von
 Inhaltsverzeichnissen, Abbildung- und Tabellenverzeichnissen,
@@ -419,9 +598,23 @@ Die Präsentation erfolgt gemäss den allgemeingültigen Regeln einer
 zeitgemässen Präsentationstechnik und mit geeigneten Hilfsmitteln,
 umfasst die Vorstellung der inhaltlichen Schwerpunkte der
 Gruppenarbeit und gibt einen Einblick in die Methodik der Arbeit.
+Die mündlichen Präsentationen finden physisch gemäss schulspezifischen
+Terminplan im November während des Praxisjahres statt. Der erste Teil
+bildet eine ca. 15 minütige Gruppenpräsentation zur Gruppenarbeit, der
+zweite Teil besteht aus einem Fachgespräch, in welchem den
+Schüler:innen Fragen zur technischen Produktion und technischen
+Dokumentation gestellt werden.
+
+Die Präsentation erfolgt gemäss den allgemeingültigen Regeln einer
+zeitgemässen Präsentationstechnik und mit geeigneten Hilfsmitteln,
+umfasst die Vorstellung der inhaltlichen Schwerpunkte der
+Gruppenarbeit und gibt einen Einblick in die Methodik der Arbeit.
 
 # Archivierung
 
+Ein Exemplar der IDPA bleibt im Besitz der Schule und wird zusammen
+mit der Bewertung archiviert. Ohne Zustimmung der Autor\*innen werden
+die Arbeiten nicht veröffentlicht.
 Ein Exemplar der IDPA bleibt im Besitz der Schule und wird zusammen
 mit der Bewertung archiviert. Ohne Zustimmung der Autor\*innen werden
 die Arbeiten nicht veröffentlicht.
@@ -519,6 +712,12 @@ Die Beurteilung richtet sich nach den Vorgaben, welche für die IPA
 gelten[^5].
 
 *Prozess*
+*Technische Produktion und Technische Dokumentation*
+
+Die Beurteilung richtet sich nach den Vorgaben, welche für die IPA
+gelten[^5].
+
+*Prozess*
 
 -   Der Arbeitsprozess wird nach einem Zeitplan strukturiert
 
@@ -533,6 +732,7 @@ gelten[^5].
 -   Allfällige Probleme in der Zusammenarbeit werden einvernehmlich
     gelöst
 
+*Präsentation/Fachgespräch*
 *Präsentation/Fachgespräch*
 
 -   Jedes Teammitglied weiss über die ganze Arbeit Bescheid. Fachliche
@@ -578,10 +778,12 @@ gelten[^5].
 
 +------+-------------------------------+-------------------------------+
 | Be | Kennen wir die genauen        |                               |
+| Be | Kennen wir die genauen        |                               |
 | treu | Anforderungen? Haben wir die  |                               |
 | ungs | nötigen Informationen?        |                               |
 | gesp |                               |                               |
 | räch |                               |                               |
+| 1  |                               |                               |
 | 1  |                               |                               |
 +:====:+===============================+===============================+
 |      | Was haben wir bereits         |                               |
@@ -593,10 +795,12 @@ gelten[^5].
 |      | wir weiter vor?               |                               |
 +------+-------------------------------+-------------------------------+
 | Be | Welche Konsequenzen haben     |                               |
+| Be | Welche Konsequenzen haben     |                               |
 | treu | allfällige Abweichungen von   |                               |
 | ungs | der Planung?                  |                               |
 | gesp |                               |                               |
 | räch |                               |                               |
+| 2  |                               |                               |
 | 2  |                               |                               |
 +------+-------------------------------+-------------------------------+
 |      | Entspricht die Arbeit den     |                               |
