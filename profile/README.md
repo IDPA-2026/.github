@@ -557,41 +557,15 @@ werden, gilt das git log als Arbeitsjournal.
 
 ### Prozess / Betreuungsgespräche 
 
-+------+-------------------------------+-------------------------------+
-| Be | Kennen wir die genauen        |                               |
-| Be | Kennen wir die genauen        |                               |
-| treu | Anforderungen? Haben wir die  |                               |
-| ungs | nötigen Informationen?        |                               |
-| gesp |                               |                               |
-| räch |                               |                               |
-| 1  |                               |                               |
-| 1  |                               |                               |
-+:====:+===============================+===============================+
-|      | Was haben wir bereits         |                               |
-|      | erledigt? Ergeben sich        |                               |
-|      | Abweichungen zur Planung oder |                               |
-|      | zum Thema?                    |                               |
-+------+-------------------------------+-------------------------------+
-|      | Was bleibt zu tun, wie gehen  |                               |
-|      | wir weiter vor?               |                               |
-+------+-------------------------------+-------------------------------+
-| Be | Welche Konsequenzen haben     |                               |
-| Be | Welche Konsequenzen haben     |                               |
-| treu | allfällige Abweichungen von   |                               |
-| ungs | der Planung?                  |                               |
-| gesp |                               |                               |
-| räch |                               |                               |
-| 2  |                               |                               |
-| 2  |                               |                               |
-+------+-------------------------------+-------------------------------+
-|      | Entspricht die Arbeit den     |                               |
-|      | Anforderungen?                |                               |
-+------+-------------------------------+-------------------------------+
-|      | Was lief bisher gut /         |                               |
-|      | schlecht? Welche              |                               |
-|      | Verbesserungen sind nötig /   |                               |
-|      | möglich?                      |                               |
-+------+-------------------------------+-------------------------------+
+| Gespräch | Fragen / Traktanden | Notizen |
+|---|---|---|
+| **Betreuungs-gespräch 1** | Kennen wir die genauen Anforderungen? Haben wir die nötigen Informationen? | |
+| | Was haben wir bereits erledigt? Ergeben sich Abweichungen zur Planung oder zum Thema? | |
+| | Was bleibt zu tun, wie gehen wir weiter vor? | |
+| **Betreuungs-gespräch 2** | Welche Konsequenzen haben allfällige Abweichungen von der Planung? | |
+| | Entspricht die Arbeit den Anforderungen? | |
+| | Was lief bisher gut / schlecht? Welche Verbesserungen sind nötig / möglich? | |
+
 
 [^1]: Lehrplan der Informatikmittelschule (IMS) mit eidgenössischer
     Berufsmaturität und eidgenössischem Fähigkeitszeugnis der
