@@ -267,94 +267,19 @@ bei Zweier- und Dreiergruppen (15 Minuten Präsentation, ca. 10 Minuten
 Fachgespräch) und werden vor den betreuenden Lehrpersonen gehalten.
 
 Der IDPA Zeitplan August 2024 bis Dezember 2025 im Überblick
-
-+------------+------------------+------------------+------------------+
-| **Kale     | **Leitung IMS**  | *                | **Schülerteams** |
-| nderwoche\ |                  | *Betreuerteams** |                  |
-| ***Datum*  |                  |                  |                  |
-+============+==================+==================+==================+
-| **34 --    | Nimmt            | Verfassen        |                  |
-| 39**       | IDPA-Themen      | IDPA-Themen      |                  |
-|            | entgegen,        |                  |                  |
-| *19.08. -- | erstellt Liste   |                  |                  |
-| 26.9.25*   |                  |                  |                  |
-+------------+------------------+------------------+------------------+
-| **43 --    | Abgabe           |                  | Teambildung      |
-| 45**       | Themenliste      |                  |                  |
-|            |                  |                  | Bewerbung für    |
-| *20.10. -- | Klassen          |                  | zwei Themen      |
-| 7.11.25*   | informieren über |                  | **bis Fr,        |
-|            | IDPA und         |                  | 7.11.25 um 16    |
-|            | Zeitplan         |                  | Uhr via**        |
-|            |                  |                  | Intranet.        |
-|            | (Abgabetermin    |                  |                  |
-|            | für KBW-Agenda   |                  |                  |
-|            | melden)          |                  |                  |
-+------------+------------------+------------------+------------------+
-| **46 --    | Zuteilung\       | Ev. Mitsprache   |                  |
-| 48**       | Teams und Themen | bei\             |                  |
-|            |                  | Themenzuteilung  |                  |
-| *10.11. -- |                  |                  |                  |
-| 28.11.25*  |                  |                  |                  |
-+------------+------------------+------------------+------------------+
-| **49 --    |                  | Erstkontakt mit  | Erste            |
-| 51**       |                  | Schülerteam      | Kontaktaufnahme  |
-|            |                  |                  | mit              |
-| *1.12 --   |                  |                  | Betreuungsteam   |
-| 19.12.25*  |                  |                  |                  |
-+------------+------------------+------------------+------------------+
-| **02 -     | Eingabe          | Abgabe Kopie     |                  |
-| 03**       | Projektaufträge  | des\             |                  |
-|            | fordern und auf  | Projektauftrages |                  |
-| *5.01 --   | Vollständigkeit  | an Sophie Német  |                  |
-| 16.01.26*  | kontrollieren    |                  |                  |
-+------------+------------------+------------------+------------------+
-| **04 --    |                  | Führen mind.     | **Beginn         |
-| 16**       |                  | zwei             | Gruppenarbeit**  |
-|            |                  | Betr             |                  |
-| *19.01. -- |                  | euungsgespräche\ | und nehmen an    |
-| 14.04.26*  |                  | (Teil der        | mind. zwei       |
-|            |                  | P                | Betr             |
-|            |                  | rozessbewertung) | euungsgesprächen |
-|            |                  |                  | teil             |
-+------------+------------------+------------------+------------------+
-| **16**     | Einzug Arbeiten, |                  | **Abgabe         |
-|            | Weitergabe an    |                  | Gruppenarbeiten  |
-| *Do,       | Betreuerteam     |                  | im Sekretariat** |
-| 16.04.26*\ |                  |                  |                  |
-| *7.30 -    |                  |                  | 7.30 - 11.30 Uhr |
-| 11.30 Uhr* |                  |                  |                  |
-+------------+------------------+------------------+------------------+
-| **17 --    | Pr               | Beurteilen       | Bereiten sich    |
-| 44**       | äsentationsplan\ | Gruppenarbeit    | auf Präsentation |
-|            | erstellen        |                  | vor              |
-| *20.04. -- |                  |                  |                  |
-| 30.10.26*  | (Termin für      |                  |                  |
-|            | KBW-Agenda       |                  |                  |
-|            | melden)          |                  |                  |
-+------------+------------------+------------------+------------------+
-| **46**     |                  | Bewerten         | **Präsentation   |
-|            |                  | Präsentation     | 25'**            |
-| *Do,       |                  | (Kolloquium)     |                  |
-| 12.11.26*  |                  |                  |                  |
-+------------+------------------+------------------+------------------+
-| **46 --    |                  | Verfassen        | Noteneröffnung   |
-| 48**       |                  | schriftliche     | und schriftliche |
-|            |                  | Kurzbewertung;   | Kurzbewertung    |
-| *12.11 --  |                  | Rück­gabe         |                  |
-| 27.11.26*  |                  | Arbeiten: 1      |                  |
-|            |                  | Exemplar an      |                  |
-|            |                  | Schülerteam, 1   |                  |
-|            |                  | Exemplar         |                  |
-|            |                  | Sekretariat      |                  |
-+------------+------------------+------------------+------------------+
-| **49 --    | Sekretariat:     |                  |                  |
-| 50**       | Erfasst Note für |                  |                  |
-|            | BM-Zeugnis und   |                  |                  |
-| *30.11. -- | archiviert 1     |                  |                  |
-| 11.12.26*  | Exemplar der     |                  |                  |
-|            | Arbeiten         |                  |                  |
-+------------+------------------+------------------+------------------+
+| **Kalenderwoche**<br>***Datum*** | **Leitung IMS** | **Betreuerteams** | **Schülerteams** |
+|---|---|---|---|
+| **34 -- 39**<br>*19.08. -- 26.9.25* | Nimmt IDPA-Themen entgegen, erstellt Liste | Verfassen IDPA-Themen | |
+| **43 -- 45**<br>*20.10. -- 7.11.25* | Abgabe Themenliste<br>Klassen informieren über IDPA und Zeitplan<br>(Abgabetermin für KBW-Agenda melden) | | Teambildung<br>Bewerbung für zwei Themen<br>**bis Fr, 7.11.25 um 16 Uhr via** Intranet. |
+| **46 -- 48**<br>*10.11. -- 28.11.25* | Zuteilung Teams und Themen | Ev. Mitsprache bei Themenzuteilung | |
+| **49 -- 51**<br>*1.12 -- 19.12.25* | | Erstkontakt mit Schülerteam | Erste Kontaktaufnahme mit Betreuungsteam |
+| **02 - 03**<br>*5.01 -- 16.01.26* | Eingabe Projektaufträge fordern und auf Vollständigkeit kontrollieren | Abgabe Kopie des Projektauftrages an Sophie Német | |
+| **04 -- 16**<br>*19.01. -- 14.04.26* | | Führen mind. zwei Betreuungsgespräche (Teil der Prozessbewertung) | **Beginn Gruppenarbeit**<br>und nehmen an mind. zwei Betreuungsgesprächen teil |
+| **16**<br>*Do, 16.04.26*<br>*7.30 - 11.30 Uhr* | Einzug Arbeiten, Weitergabe an Betreuerteam | | **Abgabe Gruppenarbeiten im Sekretariat**<br>7.30 - 11.30 Uhr |
+| **17 -- 44**<br>*20.04. -- 30.10.26* | Präsentationsplan erstellen<br>(Termin für KBW-Agenda melden) | Beurteilen Gruppenarbeit | Bereiten sich auf Präsentation vor |
+| **46**<br>*Do, 12.11.26* | | Bewerten Präsentation (Kolloquium) | **Präsentation 25'** |
+| **46 -- 48**<br>*12.11 -- 27.11.26* | | Verfassen schriftliche Kurzbewertung; Rück­gabe Arbeiten: 1 Exemplar an Schülerteam, 1 Exemplar Sekretariat | Noteneröffnung und schriftliche Kurzbewertung |
+| **49 -- 50**<br>*30.11. -- 11.12.26* | Sekretariat: Erfasst Note für BM-Zeugnis und archiviert 1 Exemplar der Arbeiten | | |
 
 ## Elemente der IDPA
 
