@@ -146,15 +146,12 @@ IDPA-Schlussnote wird auf halbe Noten gerundet.
 
 Die Bewertung umfasst folgende Teilbereiche (inkl. Gewichtung):
 
-  -----------------------------------------------------------------------
-  Technische Produktion                                 40%
-  ----------------------------------------------------- -----------------
-  Prozess                                               10%
-
-  Technische Dokumentation                              25%
-
-  Präsentation und Fachgespräch                         25%
-  -----------------------------------------------------------------------
+| Kriterium | Gewichtung |
+|:---|---:|
+| Technische Produktion | 40% |
+| Prozess | 10% |
+| Technische Dokumentation | 25% |
+| Präsentation und Fachgespräch | 25% |
 
 Die Note der IDPA wird auf halbe oder ganze Noten gerundet. Die
 erworbene Note der IDPA zählt zu 50% für die Fachnote IDAF. Die andere
