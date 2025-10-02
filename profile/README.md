@@ -225,7 +225,7 @@ muss selbständig von den Betreuungspersonen gestartet und angewendet
 werden können, die Verantwortung dafür liegt bei den Teammitgliedern.
 Die Abgabetermine gemäss Zeitplan sind absolut verbindlich.
 
-Das Arbeitsjournal muss im Original den betreuenden Lehrpersonen
+Das Arbeitsjournal wird durch das git log ersetzt und muss nicht separat
 abgegeben werden.
 
 Bei der Abgabe ist eine ehrenwörtliche Erklärung (siehe Anhang 6.2),
@@ -236,24 +236,6 @@ KBW[^3].
 Die IDPA-Projektaufträge müssen im Herbst des fünften Semesters gemäss
 schulspezifischen Weisungen abgegeben werden.
 
-Von der technischen Dokumentation müssen zwei gebundene Exemplare
-gemäss schulspezifischen Weisungen und eine elektronische Version der
-Dokumentation im PDF-Format an die IMS-Leitung und die betreuenden
-Lehrpersonen zustellt werden. Der Druck und das Binden der Arbeiten
-kann mit Kosten verbunden sein. Die technische Produktion ist in
-geeigneter Form (z.B. Link, USB-Stick) mitzuliefern. Die Applikation
-muss selbständig von den Betreuungspersonen gestartet und angewendet
-werden können, die Verantwortung dafür liegt bei den Teammitgliedern.
-Die Abgabetermine gemäss Zeitplan sind absolut verbindlich.
-
-Das Arbeitsjournal muss im Original den betreuenden Lehrpersonen
-abgegeben werden.
-
-Bei der Abgabe ist eine ehrenwörtliche Erklärung (siehe Anhang 6.2),
-dass die Arbeit ohne unerlaubte Hilfsmittel verfasst worden ist, zu
-unterzeichnen. Verstösst ein Schülerteam gegen die Lauterkeit
-(Plagiatsversuch, gilt auch für Codes), gelten die Bestimmungen der
-KBW[^3].
 
 ### Präsentationstermine
 
