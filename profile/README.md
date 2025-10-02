@@ -331,8 +331,6 @@ sinnvoll auf die Bedürfnisse des Teams angepasst werden):
 | **Quellenverzeichnis** | Gemäss Anforderungen in Kapitel sowieso Zitierweise und Verzeichnisse<br>Neben Internetquellen braucht es mindestens eine andere Quelle |
 | **Anhang** | Erstellte Unterlagen<br>Unveröffentlichte Quellen<br>Detaillierte Auswertungen |
 
-####  
-
 #### Zitierweise und Verzeichnisse
 
 Die korrekte und transparente Zitierweise ist ein wichtiges
@@ -551,33 +549,11 @@ gelten[^5].
 
 -   Die Befragten antworten in Standardsprache auf gutem Niveau
 
-### Muster Arbeitsjournal[^6] (von jedem Teammitglied zu führen) 
+### Arbeitsjournal[^6]
 
-  -----------------------------------------------------------------------
-  Datum                   Arbeitszeit (gerundet auf h):
-  ----------------------- -----------------------------------------------
-  Ausgeführte Arbeiten    
+Da die Arbeiten mit git zu versionieren sind und auf GitHub gehostet
+werden, gilt das git log als Arbeitsjournal.
 
-  Erreichte Ziele         
-
-  Aufgetretene Probleme   
-
-  Durchgeführte Tests     
-
-  Wissensbeschaffung      
-
-  Beanspruchte            
-  Hilfeleistung           
-
-  Vergleich mit dem       
-  Zeitplan                
-
-  Reflexion               
-  -----------------------------------------------------------------------
-
-### 
-
-### 
 
 ### Prozess / Betreuungsgespräche 
 
