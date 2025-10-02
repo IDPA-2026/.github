@@ -1,8 +1,9 @@
-**Interdisziplinäre Projektarbeit (IDPA):**
+# Interdisziplinäre Projektarbeit (IDPA):
 
-**Vorgaben 2025/26 für die Informatikmittelschule (IMS)**
 
-# Inhaltsverzeichnis {#inhaltsverzeichnis .TOC-Heading}
+Vorgaben 2025/26 für die Informatikmittelschule (IMS) an der KBW
+
+## Inhaltsverzeichnis {#inhaltsverzeichnis .TOC-Heading}
 
 [1 Grundlagen [2](#grundlagen)](#grundlagen)
 
@@ -63,7 +64,7 @@
 [6.5 Prozess / Betreuungsgespräche
 [10](#prozess-betreuungsgespräche)](#prozess-betreuungsgespräche)
 
-# Grundlagen
+## Grundlagen
 
 > Die IDPA ist eine **I**nter**D**isziplinäre **P**rojekt**A**rbeit, die
 > in der Regel in Zweier- oder Dreiergruppen verfasst wird. Dabei wird
@@ -76,7 +77,7 @@
 > Der gesamte IDPA-Zyklus dauert von August des dritten bis November des
 > vierten Ausbildungsjahres.
 
-### Rahmenbedingungen und Zielsetzungen
+#### Rahmenbedingungen und Zielsetzungen
 
 Die eidgenössische Berufsmaturitätsverordnung (BMV) legt in Artikel 11
 Absatz 4 fest, dass die Lernenden als Teil der Berufsmaturitätsprüfung
@@ -105,7 +106,7 @@ Falls die IDPA ganz oder teilweise im Rahmen eines Unterrichtsgefässes
 entsprechend zu erhöhen. Dies ist im Projektauftrag (Anhang 6.1)
 zwingend zu vermerken.
 
-# Themen, Interdisziplinarität und Bewertung
+## Themen, Interdisziplinarität und Bewertung
 
 Die Themen werden jeweils Ende August / nach den Sommerferien
 (Semester 5) von Lehrpersonen ausgeschrieben und den Lernenden
@@ -120,13 +121,13 @@ vorhandenen Themen ein. Die definitive Zuteilung erfolgt durch die
 IMS-Leitung, bei Bedarf in Absprache mit der Schulleitung. Das gleiche
 Thema kann im Normalfall nur von einer Gruppe gewählt werden.
 
-## Betreuung
+### Betreuung
 
 Die Arbeit wird von zwei Lehrpersonen betreut, entweder paritätisch
 oder im «Hauptbetreuer:in/Co-Betreuer:in-Modell. Die
 Betreuungspersonen unterstützen die Lernenden individuell angepasst in
 folgenden Belangen:
-## 
+### 
 
 Die Arbeit wird von zwei Lehrpersonen betreut, entweder paritätisch
 oder im «Hauptbetreuer:in/Co-Betreuer:in-Modell. Die
@@ -173,7 +174,7 @@ Die Präsentation bildet den Abschluss der IDPA. Diese findet in Form
 einer Präsentation von 15 Minuten und einem nachfolgenden ca.
 10-minütigen Fachgespräch (Kolloquium) statt.
 
-## Bewertung
+### Bewertung
 
 Die IDPA-Note ist Bestandteil der BM. Ohne abgegebene Arbeit kann
 diese Note nicht gesetzt werden und damit auch kein
@@ -231,7 +232,7 @@ Der Mittelwert der Erfahrungsnote IDAF und der Note für die
 Berufsmaturitätsarbeit (IDPA) ergeben die auf eine Dezimale gerundete
 Fachnote IDAF. Sie zählt für den BM-Abschluss.
 
-# Termine
+## Termine
 
 Der IDPA-Zyklus, in dem Schüler:innen an der IDPA arbeiten, dauert von
 Mitte November des letzten Schuljahres bis im November des
@@ -256,7 +257,7 @@ Einsicht in den Arbeitsprozess gewährt werden, ebenso können
 Leseproben einmalig im Umfang von maximal drei Seiten abgegeben
 werden.
 
-## Vorinformation über Themen
+### Vorinformation über Themen
 
 Im Verlauf des fünften Semesters werden die Schüler:innen von der
 IMS-Leitung über die Eckpunkte der IDPA informiert. Bis zur
@@ -273,7 +274,7 @@ Wunschthemen zu entscheiden und Teams zu bilden. Schüler:innen, die
 sich innerhalb des Zeitfensters der Anmeldung nicht für ein Thema
 eintragen, werden von der IMS-Leitung zugeteilt.
 
-## Abgabe der Dokumente 
+### Abgabe der Dokumente 
 
 Die IDPA-Projektaufträge müssen im Herbst des fünften Semesters gemäss
 schulspezifischen Weisungen abgegeben werden.
@@ -318,7 +319,7 @@ unterzeichnen. Verstösst ein Schülerteam gegen die Lauterkeit
 (Plagiatsversuch, gilt auch für Codes), gelten die Bestimmungen der
 KBW[^3].
 
-## Präsentationstermine
+### Präsentationstermine
 
 Die Präsentationstermine finden im November des Praxisjahres gemäss
 schulspezifischen Weisungen statt. Sie dauern je Gruppe ca. 25 Minuten
@@ -419,7 +420,7 @@ Der IDPA Zeitplan August 2024 bis Dezember 2025 im Überblick
 |            | Arbeiten         |                  |                  |
 +------------+------------------+------------------+------------------+
 
-# Elemente der IDPA
+## Elemente der IDPA
 
 Die IDPA umfasst eine technische Produktion, eine technische
 Dokumentation, die Darlegung des Arbeitsprozesses in Form eines
@@ -430,7 +431,7 @@ Dokumentation, die Darlegung des Arbeitsprozesses in Form eines
 Arbeitsjournals (siehe Anhang 6.4) und die mündliche Präsentation
 inklusive Fachgespräch.
 
-## Arbeitsjournal
+### Arbeitsjournal
 
 Das Arbeitsjournal zur Gruppenarbeit macht den Arbeitsprozess während
 der Gruppenarbeit transparent und dient einerseits als Planungs- und
@@ -441,14 +442,14 @@ der Gruppenarbeit transparent und dient einerseits als Planungs- und
 Dokumentationsinstrument, andererseits soll es aber auch Gelegenheit
 bieten, Reflexionen über verschiedene Kompetenzen anzustellen.
 
-## Technische Produktion und technische Dokumentation
+### Technische Produktion und technische Dokumentation
 
 Die Schüler:innen führen die IDPA als technische Produktion durch
 welche einen ICT-Teil enthält.
 Die Schüler:innen führen die IDPA als technische Produktion durch
 welche einen ICT-Teil enthält.
 
-### Aufbau der technischen Dokumentation
+#### Aufbau der technischen Dokumentation
 
 Die technische Produktion ist mit einer technischen Dokumentation
 abzugeben. Diese hält sich an folgenden Aufbau (die Struktur kann/muss
@@ -526,9 +527,9 @@ sinnvoll auf die Bedürfnisse des Teams angepasst werden):
 |                      | Detaillierte Auswertungen                     |
 +----------------------+-----------------------------------------------+
 
-###  
+####  
 
-### Zitierweise und Verzeichnisse
+#### Zitierweise und Verzeichnisse
 
 Die korrekte und transparente Zitierweise ist ein wichtiges
 Qualitätskriterium für die Arbeit und ist strikte zu beachten. Jede
@@ -559,7 +560,7 @@ nachgewiesenem Betrug in Form eines Teil- oder Vollplagiats (Plagiat:
 fremdes Material ohne Quellenangabe) wird die Arbeit für ungültig
 erklärt. Über die weiteren Schritte entscheidet die Schulleitung.
 
-### Layout
+#### Layout
 
 Das Arbeiten mit Formatvorlagen vereinfacht die formelle Gestaltung
 der Arbeit. Zudem ermöglicht es die automatische Erstellung von
@@ -585,7 +586,7 @@ Checkliste relevante Gestaltungskriterien:
 -   Abbildungen, Tabellen, Graphiken etc. einheitlich beschriftet und
     fortlaufend nummeriert.
 
-## Präsentation
+### Präsentation
 
 Die mündlichen Präsentationen finden physisch gemäss schulspezifischen
 Terminplan im November während des Praxisjahres statt. Der erste Teil
@@ -610,7 +611,7 @@ zeitgemässen Präsentationstechnik und mit geeigneten Hilfsmitteln,
 umfasst die Vorstellung der inhaltlichen Schwerpunkte der
 Gruppenarbeit und gibt einen Einblick in die Methodik der Arbeit.
 
-# Archivierung
+## Archivierung
 
 Ein Exemplar der IDPA bleibt im Besitz der Schule und wird zusammen
 mit der Bewertung archiviert. Ohne Zustimmung der Autor\*innen werden
@@ -619,9 +620,9 @@ Ein Exemplar der IDPA bleibt im Besitz der Schule und wird zusammen
 mit der Bewertung archiviert. Ohne Zustimmung der Autor\*innen werden
 die Arbeiten nicht veröffentlicht.
 
-# Anhang
+## Anhang
 
-## Muster eines Projektauftrages IDPA
+### Muster eines Projektauftrages IDPA
 
 1 Thema / Arbeitstitel
 
@@ -678,7 +679,7 @@ Weiteres: \...\...\...\...\...\...\...\...\...\...\.....
 
 Ort / Datum Schülerteam Ort / Datum Betreuerteam
 
-## Ehrenwörtliche Erklärung
+### Ehrenwörtliche Erklärung
 
 Wir erklären, dass wir die vorliegende Arbeit selbstständig, ohne fremde
 Hilfe und in eigener Sprache verfasst haben und keine anderen als die
@@ -702,9 +703,9 @@ Autoren/Autorinnen:.............................................................
 Die Arbeit darf einem interessierten Publikum gezeigt / nicht gezeigt
 werden. (Nicht Zutreffendes streichen)
 
-## 
+### 
 
-## Beurteilungskriterien
+### Beurteilungskriterien
 
 *Technische Produktion und Technische Dokumentation*
 
@@ -746,7 +747,7 @@ gelten[^5].
 
 -   Die Befragten antworten in Standardsprache auf gutem Niveau
 
-## Muster Arbeitsjournal[^6] (von jedem Teammitglied zu führen) 
+### Muster Arbeitsjournal[^6] (von jedem Teammitglied zu führen) 
 
   -----------------------------------------------------------------------
   Datum                   Arbeitszeit (gerundet auf h):
@@ -770,11 +771,11 @@ gelten[^5].
   Reflexion               
   -----------------------------------------------------------------------
 
-## 
+### 
 
-## 
+### 
 
-## Prozess / Betreuungsgespräche 
+### Prozess / Betreuungsgespräche 
 
 +------+-------------------------------+-------------------------------+
 | Be | Kennen wir die genauen        |                               |
