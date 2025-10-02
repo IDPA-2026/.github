@@ -3,67 +3,6 @@
 
 Vorgaben 2025/26 für die Informatikmittelschule (IMS) an der KBW
 
-## Inhaltsverzeichnis {#inhaltsverzeichnis .TOC-Heading}
-
-[1 Grundlagen [2](#grundlagen)](#grundlagen)
-
-[1.1 Rahmenbedingungen und Zielsetzungen
-[2](#rahmenbedingungen-und-zielsetzungen)](#rahmenbedingungen-und-zielsetzungen)
-
-[2 Themen, Interdisziplinarität und Bewertung
-[3](#themen-interdisziplinarität-und-bewertung)](#themen-interdisziplinarität-und-bewertung)
-
-[2.1 Betreuung [3](#betreuung)](#betreuung)
-
-[2.2 Bewertung [3](#bewertung)](#bewertung)
-
-[3 Termine [4](#termine)](#termine)
-
-[3.1 Vorinformation über Themen
-[4](#vorinformation-über-themen)](#vorinformation-über-themen)
-
-[3.2 Abgabe der Dokumente
-[4](#abgabe-der-dokumente)](#abgabe-der-dokumente)
-
-[3.3 Präsentationstermine
-[4](#präsentationstermine)](#präsentationstermine)
-
-[4 Elemente der IDPA [6](#elemente-der-idpa)](#elemente-der-idpa)
-
-[4.1 Arbeitsjournal [6](#arbeitsjournal)](#arbeitsjournal)
-
-[4.2 Technische Produktion und technische Dokumentation
-[6](#technische-produktion-und-technische-dokumentation)](#technische-produktion-und-technische-dokumentation)
-
-[4.2.1 Aufbau der technischen Dokumentation
-[6](#aufbau-der-technischen-dokumentation)](#aufbau-der-technischen-dokumentation)
-
-[4.2.2 Zitierweise und Verzeichnisse
-[7](#zitierweise-und-verzeichnisse)](#zitierweise-und-verzeichnisse)
-
-[4.2.3 Layout [7](#layout)](#layout)
-
-[4.3 Präsentation [7](#präsentation)](#präsentation)
-
-[5 Archivierung [7](#archivierung)](#archivierung)
-
-[6 Anhang [8](#anhang)](#anhang)
-
-[6.1 Muster eines Projektauftrages IDPA
-[8](#muster-eines-projektauftrages-idpa)](#muster-eines-projektauftrages-idpa)
-
-[6.2 Ehrenwörtliche Erklärung
-[9](#ehrenwörtliche-erklärung)](#ehrenwörtliche-erklärung)
-
-[6.3 Beurteilungskriterien
-[9](#beurteilungskriterien)](#beurteilungskriterien)
-
-[6.4 Muster Arbeitsjournal (von jedem Teammitglied zu führen)
-[10](#muster-arbeitsjournal-von-jedem-teammitglied-zu-führen)](#muster-arbeitsjournal-von-jedem-teammitglied-zu-führen)
-
-[6.5 Prozess / Betreuungsgespräche
-[10](#prozess-betreuungsgespräche)](#prozess-betreuungsgespräche)
-
 ## Grundlagen
 
 > Die IDPA ist eine **I**nter**D**isziplinäre **P**rojekt**A**rbeit, die
