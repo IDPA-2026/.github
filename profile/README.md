@@ -5,16 +5,16 @@ Vorgaben 2025/26 für die Informatikmittelschule (IMS) an der KBW
 
 ## Grundlagen
 
-> Die IDPA ist eine **I**nter**D**isziplinäre **P**rojekt**A**rbeit, die
-> in der Regel in Zweier- oder Dreiergruppen verfasst wird. Dabei wird
-> eine Fragestellung aus den Blickwinkeln zweier Fächer bearbeitet und
-> in einer schriftlichen Gruppenarbeit sowie einer mündlichen
-> Präsentation vorgestellt. Zudem wird der Entstehungsprozess in einem
-> Arbeitsjournal festgehalten und eine technische Dokumentation der
-> Projektarbeit erstellt.
->
-> Der gesamte IDPA-Zyklus dauert von August des dritten bis November des
-> vierten Ausbildungsjahres.
+Die IDPA ist eine **I**nter**D**isziplinäre **P**rojekt**A**rbeit, die
+in der Regel in Zweier- oder Dreiergruppen verfasst wird. Dabei wird
+eine Fragestellung aus den Blickwinkeln zweier Fächer bearbeitet und
+in einer schriftlichen Gruppenarbeit sowie einer mündlichen
+Präsentation vorgestellt. Zudem wird der Entstehungsprozess in einem
+Arbeitsjournal festgehalten und eine technische Dokumentation der
+Projektarbeit erstellt.
+
+Der gesamte IDPA-Zyklus dauert von August des dritten bis November des
+vierten Ausbildungsjahres.
 
 #### Rahmenbedingungen und Zielsetzungen
 
