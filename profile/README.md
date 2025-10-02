@@ -97,21 +97,6 @@ der Bewertung angemessen zu berücksichtigen.
 Die Präsentation bildet den Abschluss der IDPA. Diese findet in Form
 einer Präsentation von 15 Minuten und einem nachfolgenden ca.
 10-minütigen Fachgespräch (Kolloquium) statt.
-Während der Bearbeitungszeit finden zwei Betreuungsgespräche statt,
-u.a. zur Diskussion von Analyse und Design und zur Klärung der genauen
-Anforderungen an die Abgabeform der technischen Produktion und an den
-Prozess (siehe Anhang 6.3, 6.4 und 6.5).
-
-Die betreuenden Lehrpersonen fordern und überprüfen Konzept und
-Zeitplan, beraten bezüglich weiterem Vorgehen und unterstützen bei
-Schwierigkeiten. Jedoch sollen während der Betreuungsphasen
-grammatikalische und stilistische Korrekturen unterlassen werden.
-Inhaltlich tiefgreifende Korrekturen durch die Lehrpersonen sind bei
-der Bewertung angemessen zu berücksichtigen.
-
-Die Präsentation bildet den Abschluss der IDPA. Diese findet in Form
-einer Präsentation von 15 Minuten und einem nachfolgenden ca.
-10-minütigen Fachgespräch (Kolloquium) statt.
 
 ### Bewertung
 
@@ -133,16 +118,6 @@ Die Bewertung umfasst folgende Teilbereiche (inkl. Gewichtung):
 Die IDPA-Note ist Bestandteil der BM. Ohne abgegebene Arbeit kann
 diese Note nicht gesetzt werden und damit auch kein
 Berufsmaturitätszeugnis ausgestellt werden.
-
-Die Note wird vom Betreuerteam gemeinsam festgelegt und dem
-Schülerteam spätestens zwei Wochen nach dem Präsentationstermin
-eröffnet. Sie wird schriftlich begründet. Die Gesamtnote gilt
-grundsätzlich für alle Mitglieder des Schülerteams. Im Falle deutlich
-erkennbarer unterschiedlicher Leistungsanteile können die Lehrpersonen
-Einzelnoten setzen. In Zweifelsfällen bei der Notengebung entscheidet
-die Schulleitung. Für eine zu späte Abgabe der IDPA wird pro
-angebrochenem Tag eine Note auf Basis der Schulnote abgezogen. Die
-IDPA-Schlussnote wird auf halbe Noten gerundet.
 
 Die Bewertung umfasst folgende Teilbereiche (inkl. Gewichtung):
 
@@ -181,27 +156,9 @@ Lehrpersonen sind unabdingbar. Dabei muss bei der Gruppenarbeit auch
 Einsicht in den Arbeitsprozess gewährt werden, ebenso können
 Leseproben einmalig im Umfang von maximal drei Seiten abgegeben
 werden.
-Der IDPA-Zyklus, in dem Schüler:innen an der IDPA arbeiten, dauert von
-Mitte November des letzten Schuljahres bis im November des
-Praxisjahres. Die Erarbeitung erfolgt in Eigenverantwortung der
-Schüler:innen. Für die Klassen werden im Stundenplan des 6. Semesters
-zwei Lektionen für die IDPA-Gruppenarbeit blockiert; in dieser Zeit
-ist freies Arbeiten möglich. Zudem wird nochmals mit demselben Aufwand
-als Hausaufgabenzeit gerechnet. Periodische Sitzungen mit beiden
-Lehrpersonen sind unabdingbar. Dabei muss bei der Gruppenarbeit auch
-Einsicht in den Arbeitsprozess gewährt werden, ebenso können
-Leseproben einmalig im Umfang von maximal drei Seiten abgegeben
-werden.
 
 ### Vorinformation über Themen
 
-Im Verlauf des fünften Semesters werden die Schüler:innen von der
-IMS-Leitung über die Eckpunkte der IDPA informiert. Bis zur
-definitiven Themenwahl nach den Herbstferien bleibt den Lernenden
-genügend Zeit, sich mit der Themenwahl auseinanderzusetzen, sich für
-Wunschthemen zu entscheiden und Teams zu bilden. Schüler:innen, die
-sich innerhalb des Zeitfensters der Anmeldung nicht für ein Thema
-eintragen, werden von der IMS-Leitung zugeteilt.
 Im Verlauf des fünften Semesters werden die Schüler:innen von der
 IMS-Leitung über die Eckpunkte der IDPA informiert. Bis zur
 definitiven Themenwahl nach den Herbstferien bleibt den Lernenden
@@ -237,7 +194,7 @@ Die IDPA-Projektaufträge müssen im Herbst des fünften Semesters gemäss
 schulspezifischen Weisungen abgegeben werden.
 
 
-### Präsentationstermine
+### Termine
 
 Die Präsentationstermine finden im November des Praxisjahres gemäss
 schulspezifischen Weisungen statt. Sie dauern je Gruppe ca. 25 Minuten
@@ -269,26 +226,17 @@ Die IDPA umfasst eine technische Produktion, eine technische
 Dokumentation, die Darlegung des Arbeitsprozesses in Form eines
 Arbeitsjournals (siehe Anhang 6.4) und die mündliche Präsentation
 inklusive Fachgespräch.
-Die IDPA umfasst eine technische Produktion, eine technische
-Dokumentation, die Darlegung des Arbeitsprozesses in Form eines
-Arbeitsjournals (siehe Anhang 6.4) und die mündliche Präsentation
-inklusive Fachgespräch.
 
-### Arbeitsjournal
+### Reflexion
 
-Das Arbeitsjournal zur Gruppenarbeit macht den Arbeitsprozess während
-der Gruppenarbeit transparent und dient einerseits als Planungs- und
-Dokumentationsinstrument, andererseits soll es aber auch Gelegenheit
-bieten, Reflexionen über verschiedene Kompetenzen anzustellen.
-Das Arbeitsjournal zur Gruppenarbeit macht den Arbeitsprozess während
-der Gruppenarbeit transparent und dient einerseits als Planungs- und
-Dokumentationsinstrument, andererseits soll es aber auch Gelegenheit
-bieten, Reflexionen über verschiedene Kompetenzen anzustellen.
+Da das Arbeitsjournal durch das git log ersetzt wird, ist die
+Dokumentation um einen Abschnitt Reflexion zu ergänzen. In diesem
+Abschnitt ist darzulegen, was gut gelungen ist. Ausserdem ist darüber
+Rechenschaft abzulegen, welche Schwierigkeiten wie
+bewältigt wurden.
 
 ### Technische Produktion und technische Dokumentation
 
-Die Schüler:innen führen die IDPA als technische Produktion durch
-welche einen ICT-Teil enthält.
 Die Schüler:innen führen die IDPA als technische Produktion durch
 welche einen ICT-Teil enthält.
 
