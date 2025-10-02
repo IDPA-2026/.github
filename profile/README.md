@@ -319,74 +319,17 @@ Die technische Produktion ist mit einer technischen Dokumentation
 abzugeben. Diese hält sich an folgenden Aufbau (die Struktur kann/muss
 sinnvoll auf die Bedürfnisse des Teams angepasst werden):
 
-+----------------------+-----------------------------------------------+
-| Titelblatt           | Name und Loge der Schule                      |
-|                      |                                               |
-|                      | Vollständiger Titel der Arbeit                |
-|                      |                                               |
-|                      | Art der Arbeit (IDPA)                         |
-|                      |                                               |
-|                      | Name und Klasse der Autor:innen               |
-|                      |                                               |
-|                      | Namen der betreuenden Lehrpersonen            |
-|                      |                                               |
-|                      | Datum der Abgabe                              |
-+:=====================+:==============================================+
-| Inhaltsverzeichnis   | Gliederung in Haupt- und Unterkapitel         |
-|                      |                                               |
-|                      | Seitenzahlen                                  |
-|                      |                                               |
-|                      | Anhänge                                       |
-+----------------------+-----------------------------------------------+
-| 1\. Abstract         | Prägnante Zusammenfassung der Arbeit mit      |
-|                      | Analyse, Vorgehen und Erkenntnissen (maximal  |
-|                      | eine halbe A4-Seite)                          |
-+----------------------+-----------------------------------------------+
-| 2\. Einleitung       | Grundlagen                                    |
-|                      |                                               |
-|                      | Definition des Themas und Ziele der Arbeit    |
-|                      |                                               |
-|                      | Technisches Vorgehen,                         |
-|                      | Anforderungsspezifikation                     |
-|                      |                                               |
-|                      | Aufbau der Arbeit                             |
-+----------------------+-----------------------------------------------+
-| 3\. Hauptteil /      | Analyse und Design (UML Diagramme,            |
-| Vertiefung           | Anwendungsfalldiagramm, Aktivitäts- und/oder  |
-|                      | Sequenzdiagramme, Klassendiagramme; GUI       |
-|                      | Skizzen)                                      |
-|                      |                                               |
-|                      | Softwaredokumentation (Beschreibung,          |
-|                      | Patterns, Konzepte, Modelle, Schwierigkeiten  |
-|                      | und kritische Stellen, gewählte Testfälle,    |
-|                      | Testkonzept u.a.)                             |
-|                      |                                               |
-|                      | Reflexion (gemeinsam oder individuell)        |
-+----------------------+-----------------------------------------------+
-| 4\.                  | Kritische Überprüfung der Resultate und des   |
-| Schlussfolgerungen / | Prozesses                                     |
-| Fazit                |                                               |
-|                      | Beantwortung der Forschungsfragen             |
-|                      |                                               |
-|                      | Aufzeigen von Lösungsstrategien               |
-|                      |                                               |
-|                      | Ergebnisdokumentation                         |
-+----------------------+-----------------------------------------------+
-| Bestätigung          | Siehe Anhang 6.2 Ehrenwörtliche Erklärung     |
-| Eigenständigkeit     |                                               |
-+----------------------+-----------------------------------------------+
-| Quellenverzeichnis   | Gemäss Anforderungen in Kapitel sowieso       |
-|                      | Zitierweise und Verzeichnisse                 |
-|                      |                                               |
-|                      | Neben Internetquellen braucht es mindestens   |
-|                      | eine andere Quelle                            |
-+----------------------+-----------------------------------------------+
-| Anhang               | Erstellte Unterlagen                          |
-|                      |                                               |
-|                      | Unveröffentlichte Quellen                     |
-|                      |                                               |
-|                      | Detaillierte Auswertungen                     |
-+----------------------+-----------------------------------------------+
+| Abschnitt | Inhalt / Anforderungen |
+|---|---|
+| **Titelblatt** | Name und Logo der Schule<br>Vollständiger Titel der Arbeit<br>Art der Arbeit (IDPA)<br>Name und Klasse der Autor:innen<br>Namen der betreuenden Lehrpersonen<br>Datum der Abgabe |
+| **Inhaltsverzeichnis** | Gliederung in Haupt- und Unterkapitel<br>Seitenzahlen<br>Anhänge |
+| **1. Abstract** | Prägnante Zusammenfassung der Arbeit mit Analyse, Vorgehen und Erkenntnissen (maximal eine halbe A4-Seite) |
+| **2. Einleitung** | Grundlagen<br>Definition des Themas und Ziele der Arbeit<br>Technisches Vorgehen, Anforderungsspezifikation<br>Aufbau der Arbeit |
+| **3. Hauptteil / Vertiefung** | Analyse und Design (UML Diagramme, Anwendungsfalldiagramm, Aktivitäts- und/oder Sequenzdiagramme, Klassendiagramme; GUI Skizzen)<br><br>Softwaredokumentation (Beschreibung, Patterns, Konzepte, Modelle, Schwierigkeiten und kritische Stellen, gewählte Testfälle, Testkonzept u.a.)<br><br>Reflexion (gemeinsam oder individuell) |
+| **4. Schlussfolgerungen / Fazit** | Kritische Überprüfung der Resultate und des Prozesses<br>Beantwortung der Forschungsfragen<br>Aufzeigen von Lösungsstrategien<br>Ergebnisdokumentation |
+| **Bestätigung Eigenständigkeit** | Siehe Anhang 6.2 Ehrenwörtliche Erklärung |
+| **Quellenverzeichnis** | Gemäss Anforderungen in Kapitel sowieso Zitierweise und Verzeichnisse<br>Neben Internetquellen braucht es mindestens eine andere Quelle |
+| **Anhang** | Erstellte Unterlagen<br>Unveröffentlichte Quellen<br>Detaillierte Auswertungen |
 
 ####  
 
